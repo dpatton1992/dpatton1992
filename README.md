@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dpatton1992
 - 👀 I’m interested in web development, machine learning, and functional programming
-- 🌱 I’m currently learning React, React Mobile, PHP
+- 🌱 I’m currently learning Go, Flux, and TypeScript
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me danielpatton.dev
 
