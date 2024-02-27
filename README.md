@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dpatton1992
 - 👀 I’m interested in web development, automated testing, and functional programming
-- 🌱 I’m currently learning Go, Angular, and Swift.
+- 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me dpatt.io
 
